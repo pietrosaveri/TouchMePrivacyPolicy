@@ -14,4 +14,4 @@ Your privacy is important. The **Privacy Policy website** outlines:
 - How your information is protected.  
 - Your rights regarding your data.  
 
-To learn more, visit the **[Privacy Policy website](#)** for detailed information on how we handle your privacy while using **TouchMe: Tactile Bliss**.
+To learn more, visit the **[Privacy Policy website](https://pietrosaveri.github.io/TouchMePrivacyPolicy/)** for detailed information on how we handle your privacy while using **TouchMe: Tactile Bliss**.
